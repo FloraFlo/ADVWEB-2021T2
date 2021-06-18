@@ -14,6 +14,8 @@ echo "<h1>$date</h1>"; //output html without double quotes
 echo '<p>'. $day . '</p>'; //output html with single quotes 
 ?> 
 
+<!-- div containing ph code -->
+
 <div style="background-color:green;color:white;">
     <?php echo $test ?> 
 </div>
